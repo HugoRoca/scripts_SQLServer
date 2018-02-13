@@ -1,0 +1,1 @@
+CONVERT(varchar(50), CONVERT(money, nPrestamo), 1)

@@ -1,0 +1,1 @@
+select RIGHT('0000000000' + Ltrim(Rtrim(CodigoUsuario)),10)

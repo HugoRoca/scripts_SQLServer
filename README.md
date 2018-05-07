@@ -1,2 +1,6 @@
-# scripts_SQLServer
-Scripts hechos en SQLServer, guardando para el futuro.
+# Scripts SqlServer
+**Scripts hechos, guadaros para el futuro**
+`Store Procedude`
+`Select`
+`insert, etc...`
+
